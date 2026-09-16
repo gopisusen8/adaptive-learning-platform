@@ -39,4 +39,7 @@ out/
 ### Secrets & Firebase credentials ###
 *service-account*.json
 !*service-account*.json.example
+application-local.properties
+.env
+
 
