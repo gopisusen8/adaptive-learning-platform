@@ -1,0 +1,6 @@
+# Secrets & Firebase credentials
+*service-account*.json
+!*service-account*.json.example
+.env
+.env.local
+.DS_Store
